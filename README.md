@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in Computer Science and finance
-- 🌱 I’m currently learning c and java at university. On the Side I'm working in my own website and some other Projects.
+- 👋 Hi, I’m Daniel and I think i got to much free time
 
 
 <!---
