@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daniel and I think i got to much free time
+- 👋 Hi, I’m Daniel and I think i got too much free time
 
 
 <!---
